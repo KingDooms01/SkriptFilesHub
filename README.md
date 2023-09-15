@@ -56,7 +56,8 @@ command /insertingthismightwork:
 ```
 
 </details>
-# Installation 
+
+# Installation
 Download it from releases
 Plugins required:
 - [Skript 2.7 or newer](https://github.com/SkriptLang/Skript)
