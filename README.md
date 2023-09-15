@@ -33,6 +33,29 @@ If you want a file on the list, you must create a link to a raw version of the f
 ```
 
 </details>
+
+<details>
+<summary>Click to check example</summary>
+
+```
+@ Info
+	Name: Example
+	Owner: KingDooms
+	Description:
+	- This is a test file
+	- used in the SFH discord
+	- for people to take use of.
+	Version: 1.19.4
+	Item: Nametag
+
+@ Code
+command /insertingthismightwork:
+	permission: *
+	trigger:
+		send "worked" to player
+```
+
+</details>
 # Installation 
 Download it from releases
 Plugins required:
