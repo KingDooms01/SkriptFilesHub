@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+    <a href="https://github.com/KingDooms01/Skript_Files_Hub/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://discord.gg/cBCbZjhVJU">
