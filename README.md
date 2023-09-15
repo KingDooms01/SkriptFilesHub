@@ -10,8 +10,8 @@ All you have to do is load the data in and check the GUI to check any of the Skr
 # Installation 
 Download it from releases
 Plugins required:
-- Skript 2.7 or newer
-- SkBee
-- Skript-Reflect
+- [Skript 2.7 or newer](https://github.com/SkriptLang/Skript)
+- [SkBee](https://github.com/ShaneBeee/SkBee)
+- [Skript-Reflect](https://github.com/TPGamesNL/skript-reflect)
 
 
