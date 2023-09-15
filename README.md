@@ -1,10 +1,10 @@
 </p>
 <p align="center">
     <a href="https://github.com/KingDooms01/Skript_Files_Hub/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/KingDooms01/Skript_Files_Hub?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/KingDooms01/SkriptFilesHub?color=0088ff" />
     </a>
     <a href="https://github.com/KingDooms01/Skript_Files_Hub/releases">
-      <img alt="Issues" src="https://img.shields.io/github/v/release/KingDooms01/Skript_Files_Hub?style=flat" />
+      <img alt="Issues" src="https://img.shields.io/github/v/release/KingDooms01/SkriptFilesHub?style=flat" />
     </a>
     <a href="https://discord.gg/cBCbZjhVJU">
         <img src="https://img.shields.io/discord/1150768660328226836?logo=discord"
