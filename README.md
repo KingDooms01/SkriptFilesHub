@@ -1,8 +1,12 @@
 </p>
 <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
     <a href="https://discord.gg/cBCbZjhVJU">
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="S.F.H. Discord"></a>
+
 
 # What is Skript Files Hub?
 Skript Files Hub (Also known as S.F.H.) is a Skript file that lets you download files easily into your scripts folder.
