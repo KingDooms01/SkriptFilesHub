@@ -64,7 +64,9 @@ command /insertingthismightwork:
 
 </details>
 Watch the video below for more info on how to upload files
-[![Watch the video for more info on how to upload files](https://img.youtube.com/vi/Nr2W8QCvcq8/default.jpg)](https://youtu.be/Nr2W8QCvcq8)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Nr2W8QCvcq8" target="_blank">
+ <img src="http://img.youtube.com/vi/Nr2W8QCvcq8/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 
 # Installation
 Download it from releases
