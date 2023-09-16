@@ -63,7 +63,7 @@ command /insertingthismightwork:
 ```
 
 </details>
-## Watch the video below for more info on how to upload files
+Watch the video below for more info on how to upload files
 [![Watch the video for more info on how to upload files](https://img.youtube.com/vi/Nr2W8QCvcq8/default.jpg)](https://youtu.be/Nr2W8QCvcq8)
 
 # Installation
