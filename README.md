@@ -63,10 +63,8 @@ command /insertingthismightwork:
 ```
 
 </details>
-Watch the video below for more info on how to upload files
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Nr2W8QCvcq8" target="_blank">
- <img src="http://img.youtube.com/vi/Nr2W8QCvcq8/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+[Click here for a video for more info on how to upload file](https://youtu.be/Nr2W8QCvcq8)
 
 # Installation
 Download it from releases
